@@ -1,0 +1,11 @@
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\bin\Debug\ExamenConvo2.exe.config
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\bin\Debug\ExamenConvo2.exe
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\bin\Debug\ExamenConvo2.pdb
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\ExamenConvo2.csproj.AssemblyReference.cache
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\Form1.resources
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\SistemaRegistroEstudiantes.FormAgregarEditar.resources
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\ExamenConvo2.Properties.Resources.resources
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\ExamenConvo2.csproj.GenerateResource.cache
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\ExamenConvo2.csproj.CoreCompileInputs.cache
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\ExamenConvo2.exe
+C:\Users\jdani\OneDrive\Escritorio\examenConvo2\ExamenConvo2\ExamenConvo2\obj\Debug\ExamenConvo2.pdb
